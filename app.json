@@ -9,7 +9,7 @@
         "bot"
     ],
     "website": "https://t.me/EDM115bots",
-    "repository": "https://github.com/EDM115/ban-all-except-admins",
+    "repository": "https://github.com/Recordu45/ban-all-except-admins",
     "success_url": "https://t.me/EDM115bots",
     "env": {
         "API_ID": {
@@ -34,7 +34,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "Eco"
         }
     },
     "stack": "container"
